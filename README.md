@@ -14,6 +14,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriarmostafiz&theme=tokyonight&card_width=750)](https://git.io/streak-stats)
 
+# Technologies I Know
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,mongodb,tailwind,nodejs,firebase,git,github,vite&perline=5)](https://skillicons.dev)
+
 <!--
 **shahriarmostafiz/shahriarmostafiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
