@@ -18,6 +18,69 @@ Hi 👋, I'm Shahriar Mostafiz, a passionate MERN Stack Developer from Banglades
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,mongodb,tailwind,nodejs,firebase,git,github,vite)](https://skillicons.dev)
 
+# My Favourite Projects
+
+## Food Truck
+
+##### Features
+
+- CRUD Operation with JWT
+- Fetching Data using TanStack Query
+- Dynamic Title for each Page using Helmet Async
+- Sorting and Multiple Filtering of Data
+- Search Functionality in all Products
+- Firebase authentication
+- Implementation of Spinner Gif when Data is in loading state
+
+##### Technologies used
+
+- MongoDB, Express.Js, React.Js, Tanstack Query, Firebase etc.
+
+##### Link
+
+- [Live Site](https://foodtruckbyshahriarmostafiz.surge.sh/)
+- [Client Side](https://github.com/shahriarmostafiz/Food-Truck-Front-End-/)
+- [Server Side](https://github.com/shahriarmostafiz/Food-Truck-Server/)
+
+## Delivery Express
+
+##### Features
+
+- Payment System with Strip
+- Multiple role handling
+- Form handling with react hook form
+- JWT for security
+- Review System for registered Users
+- Dynamic Maps with Map box
+
+##### Technologies used
+
+- MongoDB, Express.Js, React.Js, Tanstack Query, Firebase, Mongoose, Stripe, React-Hook-form etc.
+
+##### Link
+
+- [Live Site](https://dexpress-3aef2.web.app/)
+- [Client Side](https://github.com/shahriarmostafiz/Delivery_Express_Client)
+- [Server](https://github.com/shahriarmostafiz/Delivery_Express_Server)
+
+## Z-Tech
+
+##### Features
+
+- Authentication System with Firebase
+- CRUD Operation using Express.Js
+- Intuitive Dark Mode/Light Mode Toggle for a personalized viewing experience.
+
+##### Technologies used
+
+- MongoDB, Express.Js, React.Js, Firebase, tailwind CSS etc
+
+##### Link
+
+- [Live Site](https://z-tech-6505f.web.app/)
+- [Client Side](https://github.com/shahriarmostafiz/z-tech-front-end-/)
+- [Server](https://github.com/shahriarmostafiz/z-tech-back-end-with-express.js-/)
+
 # 📫 Reach me Here
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/shahriarmostafiz/"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Linkedin.png" style="max-width: 100%;"></a>
