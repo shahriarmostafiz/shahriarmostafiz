@@ -10,7 +10,7 @@ Hi 👋, I'm Shahriar Mostafiz, a passionate MERN Stack Developer from Banglades
 - 🌱 I’m currently learning Next.Js
 - 👯 I’m looking to collaborate on open source & Team projects
 - 📫 Reach me here : shahriarmostafiz19@gmail.com
-- ⚡ Fun fact: I love listening to audiobooks and current listening to Laws of Human Nature
+- ⚡ Fun fact: I love listening to audiobooks and currently listening to Laws of Human Nature
 
 # 📊 Stats
 
