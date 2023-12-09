@@ -1,5 +1,7 @@
 ![Lets code the world!](https://raw.githubusercontent.com/shahriarmostafiz/shahriarmostafiz/main/assets/b22.jpg "Banner")
 
+# About Me
+
 Hi 👋, I'm Shahriar Mostafiz, a passionate MERN Stack Developer from Bangladesh. I love crafting innovative solutions and thrive on the ever-evolving challenges of web development. Let's code a brighter future together! 👩‍💻
 
 # 📰 Overview
