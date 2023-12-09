@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriarmostafiz&theme=tokyonight&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriarmostafiz&theme=tokyonight&card_width=750)](https://git.io/streak-stats)
 
 <!--
 **shahriarmostafiz/shahriarmostafiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
