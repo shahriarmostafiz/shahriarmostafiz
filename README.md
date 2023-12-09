@@ -4,7 +4,7 @@ Hi 👋, I'm Shahriar Mostafiz, a passionate MERN Stack Developer from Banglades
 
 # 📰 Overview
 
-- 🔭 I’m currently working on Mearn Stack
+- 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Next.Js
 - 👯 I’m looking to collaborate on open source & Team projects
 - 📫 Reach me here : shahriarmostafiz19@gmail.com
