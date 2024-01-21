@@ -48,11 +48,11 @@ Hi 👋, I'm Shahriar Mostafiz, a passionate MERN Stack Developer from Banglades
 
 ##### Features
 
-- Payment System with Strip
+- Payment System with Stripe
 - Multiple role handling
 - Form handling with react hook form
 - JWT for security
-- Review System for registered Users
+- Review System for Registered Users
 - Dynamic Maps with Map box
 
 ##### Technologies used
