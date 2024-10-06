@@ -18,7 +18,7 @@ Hi 👋, I'm Shahriar Mostafiz, a passionate MERN Stack Developer from Banglades
 
 # ⚙ Technologies I Know
 
-[![My Skills](https://skillicons.dev/icons?i=js,python, html,css,django,react,nextjs,express,mongodb,tailwind,nodejs,firebase,git,github,vercel,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python, html,css,react,nextjs,express,mongodb,tailwind,nodejs,firebase,git,github,vercel,vite)](https://skillicons.dev)
 
 # My Favourite Projects
 
