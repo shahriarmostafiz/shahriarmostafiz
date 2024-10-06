@@ -6,8 +6,7 @@ Hi 👋, I'm Shahriar Mostafiz, a passionate Full Stack Developer from Banglades
 
 # 📰 Overview
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning Next.Js
+- 🔭 I’m currently working on Django
 - 👯 I’m looking to collaborate on open source & Team projects
 - 📫 Reach me here : shahriarmostafiz19@gmail.com
 - ⚡ Fun fact: I love listening to audiobooks and currently listening to Laws of Human Nature
