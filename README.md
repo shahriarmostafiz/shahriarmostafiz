@@ -1,4 +1,4 @@
-![Lets code the world!](https://raw.githubusercontent.com/shahriarmostafiz/shahriarmostafiz/main/assets/b22.jpg "Banner")
+![Lets code the world!](https://raw.githubusercontent.com/shahriarmostafiz/shahriarmostafiz/main/assets/banner2.png "Banner")
 
 # About Me
 
